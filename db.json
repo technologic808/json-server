@@ -1,64 +1,64 @@
 {
-  "product": [
-    {
-        "id": 11,
-        "name": "Maggie Masala Noodles 70gm",
-        "brand": "Nestle",
-        "imageurl": "https://www.chainmasala.com/459-large_default/maggi-masala-noodles-70g.jpg"
-    },
-    {
-        "id": 12,
-        "name": "Maggie Chicken Noodles 70gm",
-        "brand": "Nestle",
-        "imageurl": "https://newdaymart.com/pub/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/0/5/05_1_3.jpg"
-    },
-    {
-        "id": 13,
-        "name": "Coca Cola Zero Can 330ml",
-        "brand": "The Coca-Cola Company",
-        "imageurl": "https://myholyperogy.com/wp-content/uploads/2019/06/coca-cola-zero-1.jpg"
-    },
-    {
-        "id": 14,
-        "name": "Coca Cola Diet Can 330ml",
-        "brand": "The Coca-Cola Company",
-        "imageurl": "https://images-na.ssl-images-amazon.com/images/I/41AApQgk9%2BL.jpg"
-    },
-    {
-        "id": 15,
-        "name": "Coca Cola Original Can 330ml",
-        "brand": "The Coca-Cola Company",
-        "imageurl": "https://syldonfoods.co.uk/wp-content/uploads/2019/10/coca-cola.png"
-    },
-    {
-        "id": 16,
-        "name": "Maggie Veg Atta Noodles 70gm",
-        "brand": "Nestle",
-        "imageurl": "https://res.sastasundar.com/incom/images/product/Maggi-Masala-Veg-Atta-Noodles-1560251060-10061481-1.jpg"
-    },
-    {
-        "id": 17,
-        "name": "Maggie Oats Noodles 70gm",
-        "brand": "Nestle",
-        "imageurl": "https://www.truebuyz.com/wp-content/uploads/2019/01/maggi-oats_2.jpg"
-    },
-    {
-        "id": 18,
-        "name": "Good Day Cookies Butter 100gm",
-        "brand": "Britannia",
-        "imageurl": "http://amasauda.com/pub/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/r/britannia_good_day_butter_cookies.jpg"
-    },
-    {
-        "id": 19,
-        "name": "Good Day Cookies Cashew 100gm",
-        "brand": "Britannia",
-        "imageurl": "https://images-na.ssl-images-amazon.com/images/I/61l8i7feJeL._SL1000_.jpg"
-    },
-    {
-        "id": 20,
-        "name": "Good Day Cookies Chocolate Chip 100gm",
-        "brand": "Britannia",
-        "imageurl": "https://seller.shoponn.in/Item/Britannia%20Good%20Day%20Cookies%20Choco%20Chips%20A.jpg"
-    }
-]
+    "product": [
+        {
+            "id": 11,
+            "name": "Maggie Masala Noodles 70gm",
+            "brand": "Nestle",
+            "imageurl": "https://www.chainmasala.com/459-large_default/maggi-masala-noodles-70g.jpg"
+        },
+        {
+            "id": 12,
+            "name": "Maggie Chicken Noodles 70gm",
+            "brand": "Nestle",
+            "imageurl": "https://newdaymart.com/pub/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/0/5/05_1_3.jpg"
+        },
+        {
+            "id": 13,
+            "name": "Coca Cola Zero Can 330ml",
+            "brand": "The Coca-Cola Company",
+            "imageurl": "https://myholyperogy.com/wp-content/uploads/2019/06/coca-cola-zero-1.jpg"
+        },
+        {
+            "id": 14,
+            "name": "Coca Cola Diet Can 330ml",
+            "brand": "The Coca-Cola Company",
+            "imageurl": "https://images-na.ssl-images-amazon.com/images/I/41AApQgk9%2BL.jpg"
+        },
+        {
+            "id": 15,
+            "name": "Coca Cola Original Can 330ml",
+            "brand": "The Coca-Cola Company",
+            "imageurl": "https://syldonfoods.co.uk/wp-content/uploads/2019/10/coca-cola.png"
+        },
+        {
+            "id": 16,
+            "name": "Maggie Veg Atta Noodles 70gm",
+            "brand": "Nestle",
+            "imageurl": "https://res.sastasundar.com/incom/images/product/Maggi-Masala-Veg-Atta-Noodles-1560251060-10061481-1.jpg"
+        },
+        {
+            "id": 17,
+            "name": "Maggie Oats Noodles 70gm",
+            "brand": "Nestle",
+            "imageurl": "https://www.truebuyz.com/wp-content/uploads/2019/01/maggi-oats_2.jpg"
+        },
+        {
+            "id": 18,
+            "name": "Good Day Cookies Butter 100gm",
+            "brand": "Britannia",
+            "imageurl": "http://amasauda.com/pub/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/r/britannia_good_day_butter_cookies.jpg"
+        },
+        {
+            "id": 19,
+            "name": "Good Day Cookies Cashew 100gm",
+            "brand": "Britannia",
+            "imageurl": "https://images-na.ssl-images-amazon.com/images/I/61l8i7feJeL._SL1000_.jpg"
+        },
+        {
+            "id": 20,
+            "name": "Good Day Cookies Chocolate Chip 100gm",
+            "brand": "Britannia",
+            "imageurl": "https://seller.shoponn.in/Item/Britannia%20Good%20Day%20Cookies%20Choco%20Chips%20A.jpg"
+        }
+    ]
 }
