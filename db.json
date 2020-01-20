@@ -60,5 +60,31 @@
             "brand": "Britannia",
             "imageurl": "https://seller.shoponn.in/Item/Britannia%20Good%20Day%20Cookies%20Choco%20Chips%20A.jpg"
         }
+    ],
+    "store": [
+        {
+            "id": 11,
+            "name": "More Store",
+            "description": "Store for daily Groceries",
+            "imageurl": "https://raw.githubusercontent.com/thelocalite/localite-ng/master/src/assets/images/store/more.png"
+        },
+        {
+            "id": 12,
+            "name": "Apollo Pharmacy",
+            "description": "Store for medicines and health related products",
+            "imageurl": "https://raw.githubusercontent.com/thelocalite/localite-ng/master/src/assets/images/store/apollo.jpg"
+        },
+        {
+            "id": 13,
+            "name": "D-Mart",
+            "description": "Store for household items and groceries",
+            "imageurl": "https://raw.githubusercontent.com/thelocalite/localite-ng/master/src/assets/images/store/dmart.png"
+        },
+        {
+            "id": 14,
+            "name": "Star Bazaar",
+            "description": "Store for household items and groceries",
+            "imageurl": "https://raw.githubusercontent.com/thelocalite/localite-ng/master/src/assets/images/store/star.png"
+        }
     ]
 }
