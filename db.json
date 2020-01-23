@@ -63,28 +63,28 @@
     ],
     "store": [
         {
-            "id": 11,
-            "name": "More Store",
-            "description": "Store for daily Groceries",
-            "imageurl": "https://raw.githubusercontent.com/thelocalite/localite-ng/master/src/assets/images/store/more.png"
+            "vendorId": 11,
+            "vendorName": "More Store",
+            "vendorDescription": "Store for daily Groceries",
+            "vendorImageurl": "https://raw.githubusercontent.com/thelocalite/localite-ng/master/src/assets/images/store/more.png"
         },
         {
-            "id": 12,
-            "name": "Apollo Pharmacy",
-            "description": "Store for medicines and health related products",
-            "imageurl": "https://raw.githubusercontent.com/thelocalite/localite-ng/master/src/assets/images/store/apollo.jpg"
+            "vendorId": 12,
+            "vendorName": "Apollo Pharmacy",
+            "vendorDescription": "Store for medicines and health related products",
+            "vendorImageurl": "https://raw.githubusercontent.com/thelocalite/localite-ng/master/src/assets/images/store/apollo.jpg"
         },
         {
-            "id": 13,
-            "name": "D-Mart",
-            "description": "Store for household items and groceries",
-            "imageurl": "https://raw.githubusercontent.com/thelocalite/localite-ng/master/src/assets/images/store/dmart.png"
+            "vendorId": 13,
+            "vendorName": "D-Mart",
+            "vendorDescription": "Store for household items and groceries",
+            "vendorImageurl": "https://raw.githubusercontent.com/thelocalite/localite-ng/master/src/assets/images/store/dmart.png"
         },
         {
-            "id": 14,
-            "name": "Star Bazaar",
-            "description": "Store for household items and groceries",
-            "imageurl": "https://raw.githubusercontent.com/thelocalite/localite-ng/master/src/assets/images/store/star.png"
+            "vendorId": 14,
+            "vendorName": "Star Bazaar",
+            "vendorDescription": "Store for household items and groceries",
+            "vendorImageurl": "https://raw.githubusercontent.com/thelocalite/localite-ng/master/src/assets/images/store/star.png"
         }
     ]
 }
