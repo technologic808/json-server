@@ -66,25 +66,25 @@
             "vendorId": 11,
             "vendorName": "More Store",
             "vendorDescription": "Store for daily Groceries",
-            "vendorImageurl": "https://raw.githubusercontent.com/thelocalite/localite-ng/master/src/assets/images/store/more.png"
+            "vendorImageUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/master/src/assets/images/store/more.png"
         },
         {
             "vendorId": 12,
             "vendorName": "Apollo Pharmacy",
             "vendorDescription": "Store for medicines and health related products",
-            "vendorImageurl": "https://raw.githubusercontent.com/thelocalite/localite-ng/master/src/assets/images/store/apollo.jpg"
+            "vendorImageUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/master/src/assets/images/store/apollo.jpg"
         },
         {
             "vendorId": 13,
             "vendorName": "D-Mart",
             "vendorDescription": "Store for household items and groceries",
-            "vendorImageurl": "https://raw.githubusercontent.com/thelocalite/localite-ng/master/src/assets/images/store/dmart.png"
+            "vendorImageUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/master/src/assets/images/store/dmart.png"
         },
         {
             "vendorId": 14,
             "vendorName": "Star Bazaar",
             "vendorDescription": "Store for household items and groceries",
-            "vendorImageurl": "https://raw.githubusercontent.com/thelocalite/localite-ng/master/src/assets/images/store/star.png"
+            "vendorImageUrl": "https://raw.githubusercontent.com/thelocalite/localite-ng/master/src/assets/images/store/star.png"
         }
     ]
 }
